@@ -7,12 +7,13 @@
     "build": "echo 'No build step needed'"
   },
   "dependencies": {
-    "@waline/vercel": "^1.33.0"
+    "@waline/vercel": "latest"
   },
   "devDependencies": {},
   "engines": {
     "node": ">=18"
   }
 }
+
 
 
